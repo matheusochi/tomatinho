@@ -19,7 +19,7 @@ describe('TimerComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('should create clock component', () => {
     expect(component).toBeTruthy();
   });
 

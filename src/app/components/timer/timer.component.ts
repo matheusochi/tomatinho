@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Period, Periods } from '../core/models/timer';
+import { Period, Periods } from '../../core/models/timer';
 
 @Component({
   selector: 'app-timer',
